@@ -2,7 +2,7 @@ CS 725 : Foundations of Machine Learning
 ========================================
 
 Course Project
---------------
+-------------
 
 --------------------------------------------
 Sarcasm Detection in Tweets
