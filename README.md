@@ -10,10 +10,10 @@ Sarcasm Detection in Tweets
 
 Authors:
 --------
-Navjot Singh 	130110071
-Kalpesh Patil 	130040019
-Ashwin Bhat 	13D070006
-Yash Bhalgat	13D070014
+Navjot Singh 	130110071  
+Kalpesh Patil 	130040019  
+Ashwin Bhat 	13D070006  
+Yash Bhalgat	13D070014  
 
 
 --------------------------------------------
